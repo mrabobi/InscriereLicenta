@@ -1,0 +1,8 @@
+1) baza de date cu tabelele:
+   - studentii inscrisi
+   - comisiile de profesori
+   - programarile pe sali, zile, ore
+   - conturile studentilor
+2) algoritmul de impartire a studentilor si comisiilor de profesori 
+pe sali, zile, ore	
+in functie de constrangeri
